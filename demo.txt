@@ -10,3 +10,9 @@ tesla
 perodua
 proton
 porche
+
+chair
+desk
+speaker
+monitor
+whiteboard
