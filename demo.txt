@@ -16,3 +16,6 @@ desk
 speaker
 monitor
 whiteboard
+
+cup
+bottles
